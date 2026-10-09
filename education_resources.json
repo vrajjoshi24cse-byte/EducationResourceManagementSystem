@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1791528421145452",
+        "name": "Python Programming",
+        "category": "Book",
+        "total": 20,
+        "available": 20,
+        "location": "Library",
+        "uses": 0
+    },
+    {
+        "id": "1791528445246859",
+        "name": "DSA",
+        "category": "Book",
+        "total": 15,
+        "available": 15,
+        "location": "Library",
+        "uses": 0
+    },
+    {
+        "id": "1791528471072589",
+        "name": "Asus Laptop",
+        "category": "Laptop",
+        "total": 1,
+        "available": 1,
+        "location": "Computer Lab",
+        "uses": 0
+    }
+]
